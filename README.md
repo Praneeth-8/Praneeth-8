@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 🔭 I’m currently working on : Porting a Dead mobile with linux.
+
 🌱 I’m currently learning : C and Machine Learning.
+
 😄 Pronouns: He/Him
 <!--
 **Praneeth-8/Praneeth-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
