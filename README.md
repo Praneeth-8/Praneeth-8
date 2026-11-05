@@ -18,7 +18,7 @@
 - Open to ML internships.
 
 ### Currently working on
-- **LLM inference engine from scratch** in C++/CUDA: tokenizer, KV cache, CUDA kernels, INT8 quantization, benchmarks.
+<!-- **LLM inference engine from scratch** in C++/CUDA: tokenizer, KV cache, CUDA kernels, INT8 quantization, benchmarks.-->
 - **Porting Linux to an end-of-life phone (ASUS Zenfone 2 Laser)** with postmarketOS: kernel config and build-fix work on a legacy vendor kernel. *(in progress)*
 
 ### Tech
