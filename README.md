@@ -31,18 +31,11 @@
 
 <!--### Featured projects-->
 
-### GitHub stats (optional)
+<!---### GitHub stats (optional)
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Praneeth-8&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praneeth-8&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<!--
-The stats cards use a free public service that is sometimes rate-limited and
-may show errors. If they break, delete this section. It matters much less than
-your pinned repos.
 -->
-
----
 
 <!---<p align="center"><i>Writing about what I build and break. [Link your blog or write-ups here once you have them.]</i></p>-->
