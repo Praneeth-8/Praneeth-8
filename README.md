@@ -15,12 +15,11 @@
 ### About me
 - I'm a Data Science and Engineering student at **IIT Palakkad**, aiming for **AI/ML engineering** with a focus on how models run at a low level.
 - I like understanding things from the bottom up: kernels, memory, and the maths under the frameworks.
-- Open to ML internships. [Add one line on what you're looking for.]
+- Open to ML internships.
 
 ### Currently working on
-- **LLM inference engine from scratch** in C++/CUDA: tokenizer, KV cache, CUDA kernels, INT8 quantization, benchmarks. *(starting December 2026)*
+- **LLM inference engine from scratch** in C++/CUDA: tokenizer, KV cache, CUDA kernels, INT8 quantization, benchmarks.
 - **Porting Linux to an end-of-life phone (ASUS Zenfone 2 Laser)** with postmarketOS: kernel config and build-fix work on a legacy vendor kernel. *(in progress)*
-- **File synchronization system** in C over TCP sockets. *(in progress)*
 
 ### Tech
 <p>
