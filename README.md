@@ -26,6 +26,12 @@
   <img src="https://skillicons.dev/icons?i=py,c,cpp,linux,git,github,postgres" />
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Praneeth-8&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Praneeth-8&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Praneeth-8&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 <!-- Add more icons only for things you can defend in an interview. -->
 
 <!--### Featured projects-->
