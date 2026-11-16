@@ -54,13 +54,13 @@ Once the engine repo is public, you can add a short table with links. -->
   <img src="https://streak-stats.demolab.com/?user=Praneeth-8&theme=tokyonight&hide_border=true" />
 </p>
 </details>
-<!-- Contribution snake: uncomment after adding the snake.yml workflow and letting it run once.
+<!-- Contribution snake: uncomment after adding the snake.yml workflow and letting it run once.-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Praneeth-8/Praneeth-8/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Praneeth-8/Praneeth-8/output/github-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Praneeth-8/Praneeth-8/output/github-snake.svg" />
 </picture>
--->
+
  
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:123B66&height=80&section=footer" /></p>
  
