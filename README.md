@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:123B66,100:0A66C2&height=140&section=header&text=Praneeth&fontSize=48&fontColor=ffffff&fontAlignY=40" alt="banner" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=600&lines=3rd-year+B.Tech+Data+Science+%40+IIT+Palakkad;Low-level+ML+%7C+Systems+%7C+Linux" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=600&lines=3rd-year+B.Tech+Data+Science+%40+IIT+Palakkad;" alt="typing intro" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/badri-praneeth-ponnuri-b41493329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
