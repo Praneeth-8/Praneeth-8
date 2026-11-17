@@ -23,7 +23,7 @@
 <!--### Currently learning
 <!--- **CUDA programming:** kernels, the memory hierarchy, reductions, tiling
 - **Transformer internals:** attention, RoPE, the KV cache-->
-### Engine progress
+<!--### Engine progress-->
 <!-- Update this table as you hit each milestone. Honest progress beats a perfect-looking profile. 
 | Milestone | Status |
 |-----------|--------|
